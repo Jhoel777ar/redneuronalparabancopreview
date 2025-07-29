@@ -1,0 +1,5 @@
+{"image_path": "data/images/person3.jpg", "labels": ["sunglasses"]}
+{"image_path": "data/images/img2.jpg", "labels": ["hat"]}
+{"image_path": "data/images/img3.jpg", "labels": ["cell_phone"]}
+{"image_path": "data/images/img4.jpg", "labels": ["sunglasses", "hat"]}
+{"image_path": "data/images/person1.jpg", "labels": []}
