@@ -1,5 +1,75 @@
-{"image_path": "data/images/person3.jpg", "labels": ["sunglasses"]}
-{"image_path": "data/images/img2.jpg", "labels": ["hat"]}
-{"image_path": "data/images/img3.jpg", "labels": ["cell_phone"]}
-{"image_path": "data/images/img4.jpg", "labels": ["sunglasses", "hat"]}
+{"image_path": "data/images/img1.jpg", "labels": ["sunglasses"]}
+{"image_path": "data/images/img2.jpg", "labels": ["sunglasses"]}
+{"image_path": "data/images/img3.jpg", "labels": ["sunglasses"]}
+{"image_path": "data/images/img4.jpg", "labels": ["sunglasses"]}
+{"image_path": "data/images/img5.jpg", "labels": ["sunglasses"]}
+{"image_path": "data/images/img6.jpg", "labels": ["sunglasses"]}
+{"image_path": "data/images/img7.jpg", "labels": ["sunglasses"]}
+{"image_path": "data/images/img8.jpg", "labels": ["sunglasses"]}
+{"image_path": "data/images/img9.jpg", "labels": ["sunglasses"]}
+{"image_path": "data/images/img10.jpg", "labels": ["sunglasses"]}
+{"image_path": "data/images/img11.jpg", "labels": ["sunglasses"]}
+{"image_path": "data/images/img12.jpg", "labels": ["sunglasses"]}
+{"image_path": "data/images/img13.jpg", "labels": ["sunglasses"]}
+{"image_path": "data/images/img14.jpg", "labels": ["sunglasses"]}
+{"image_path": "data/images/img15.jpg", "labels": ["sunglasses"]}
+{"image_path": "data/images/img16.jpg", "labels": ["sunglasses"]}
+{"image_path": "data/images/img17.jpg", "labels": ["sunglasses"]}
+{"image_path": "data/images/img18.jpg", "labels": ["sunglasses"]}
+{"image_path": "data/images/img19.jpg", "labels": ["sunglasses"]}
+{"image_path": "data/images/img20.jpg", "labels": ["sunglasses"]}
+{"image_path": "data/images/smb1.jpg", "labels": ["hat"]}
+{"image_path": "data/images/smb2.jpg", "labels": ["hat"]}
+{"image_path": "data/images/smb3.jpg", "labels": ["hat"]}
+{"image_path": "data/images/smb4.jpg", "labels": ["hat"]}
+{"image_path": "data/images/smb5.jpg", "labels": ["hat"]}
+{"image_path": "data/images/smb6.jpg", "labels": ["hat"]}
+{"image_path": "data/images/smb7.jpg", "labels": ["hat"]}
+{"image_path": "data/images/smb8.jpg", "labels": ["hat"]}
+{"image_path": "data/images/smb9.jpg", "labels": ["hat"]}
+{"image_path": "data/images/smb10.jpg", "labels": ["hat"]}
+{"image_path": "data/images/smb11.jpg", "labels": ["hat"]}
+{"image_path": "data/images/smb12.jpg", "labels": ["hat"]}
+{"image_path": "data/images/smb13.jpg", "labels": ["hat"]}
+{"image_path": "data/images/smb14.jpg", "labels": ["hat"]}
+{"image_path": "data/images/smb15.jpg", "labels": ["hat"]}
+{"image_path": "data/images/smb16.jpg", "labels": ["hat"]}
+{"image_path": "data/images/smb17.jpg", "labels": ["hat"]}
+{"image_path": "data/images/smb18.jpg", "labels": ["hat"]}
+{"image_path": "data/images/smb19.jpg", "labels": ["hat"]}
+{"image_path": "data/images/smb20.jpg", "labels": ["hat"]}
+{"image_path": "data/images/imgsmb1.jpg", "labels": ["sunglasses", "hat"]}
+{"image_path": "data/images/imgsmb2.jpg", "labels": ["sunglasses", "hat"]}
+{"image_path": "data/images/imgsmb3.jpg", "labels": ["sunglasses", "hat"]}
+{"image_path": "data/images/imgsmb4.jpg", "labels": ["sunglasses", "hat"]}
+{"image_path": "data/images/imgsmb5.jpg", "labels": ["sunglasses", "hat"]}
+{"image_path": "data/images/imgsmb6.jpg", "labels": ["sunglasses", "hat"]}
+{"image_path": "data/images/imgsmb7.jpg", "labels": ["sunglasses", "hat"]}
+{"image_path": "data/images/imgsmb8.jpg", "labels": ["sunglasses", "hat"]}
+{"image_path": "data/images/imgsmb9.jpg", "labels": ["sunglasses", "hat"]}
+{"image_path": "data/images/imgsmb10.jpg", "labels": ["sunglasses", "hat"]}
+{"image_path": "data/images/imgsmb11.jpg", "labels": ["sunglasses", "hat"]}
+{"image_path": "data/images/imgsmb12.jpg", "labels": ["sunglasses", "hat"]}
+{"image_path": "data/images/imgsmb13.jpg", "labels": ["sunglasses", "hat"]}
+{"image_path": "data/images/imgsmb14.jpg", "labels": ["sunglasses", "hat"]}
+{"image_path": "data/images/imgsmb15.jpg", "labels": ["sunglasses", "hat"]}
+{"image_path": "data/images/imgsmb16.jpg", "labels": ["sunglasses", "hat"]}
+{"image_path": "data/images/imgsmb17.jpg", "labels": ["sunglasses", "hat"]}
+{"image_path": "data/images/imgsmb18.jpg", "labels": ["sunglasses", "hat"]}
+{"image_path": "data/images/imgsmb19.jpg", "labels": ["sunglasses", "hat"]}
+{"image_path": "data/images/imgsmb20.jpg", "labels": ["sunglasses", "hat"]}
+{"image_path": "data/images/cel1.jpg", "labels": ["cell_phone"]}
+{"image_path": "data/images/cel2.jpg", "labels": ["cell_phone"]}
+{"image_path": "data/images/cel3.jpg", "labels": ["cell_phone"]}
+{"image_path": "data/images/cel4.jpg", "labels": ["cell_phone"]}
+{"image_path": "data/images/cel5.jpg", "labels": ["cell_phone"]}
+{"image_path": "data/images/cel6.jpg", "labels": ["cell_phone"]}
+{"image_path": "data/images/cel7.jpg", "labels": ["cell_phone"]}
+{"image_path": "data/images/cel8.jpg", "labels": ["cell_phone"]}
+{"image_path": "data/images/cel9.jpg", "labels": ["cell_phone"]}
+{"image_path": "data/images/cel10.jpg", "labels": ["cell_phone"]}
 {"image_path": "data/images/person1.jpg", "labels": []}
+{"image_path": "data/images/person2.jpg", "labels": []}
+{"image_path": "data/images/person3.jpg", "labels": []}
+{"image_path": "data/images/person4.jpg", "labels": []}
+{"image_path": "data/images/person5.jpg", "labels": []}
